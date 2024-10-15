@@ -1,3 +1,48 @@
+
+.quattrocent-sans-regular {
+  font-family: "Quattrocento Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  font-family: "Quattrocento Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  word-spacing: 5px;
+  font-size: 18px;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-indent: 30px;
+  margin-bottom: 2rem;
+  border-top: 32px;
+}
+
+.quattrocento-sans-regular-italic {
+  font-family: "Quattrocento Sans", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.quattrocento-sans-bold-italic {
+  font-family: "Quattrocento Sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 82px;
+  letter-spacing: 0px;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
 * {
-  background-color: red
+  margin-left: 15%;
+  margin-right: 15%;
 }
